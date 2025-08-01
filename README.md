@@ -26,7 +26,7 @@ The Cloud Resume provides a simple, clean, responsive online version of a profes
   - Netlify
   - Vercel
   - AWS S3 + CloudFront
-  - Azure Static Web Apps
+  - Azure Storage + Azure DNS
 
 ## How to Use
 
